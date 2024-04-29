@@ -7,7 +7,7 @@
 #        |___/|_|                                             
 #  
 # ----------------------------------------------------- 
-# Version 2.0
+# Version 2.1
 # ----------------------------------------------------- 
 
 clear
@@ -147,7 +147,7 @@ fi
 
 # Install packages 
 # PLEASE NOTE: Add more packages at the end of the following command
-sudo pacman -S vim hyprland waybar rofi wofi kitty alacritty dunst dolphin xdg-desktop-portal-hyprland qt5-wayland qt6-wayland hyprpaper chromium ttf-font-awesome
+sudo pacman -S vim hyprland waybar rofi-wayland wofi kitty alacritty dunst dolphin xdg-desktop-portal-hyprland qt5-wayland qt6-wayland hyprpaper chromium ttf-font-awesome
 
 # Install yay packages
 # PLEASE NOTE: Add more packages at the end of the following command

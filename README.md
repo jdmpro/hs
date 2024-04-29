@@ -1,4 +1,4 @@
-# Hyprland Starter 2.0
+# Hyprland Starter 2.1
 
 To make your start with Hyprland easy, you can find here a basic installation and configuration script.
 The default configuration files are already available in the corresponding folder.
